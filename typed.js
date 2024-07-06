@@ -1,5 +1,5 @@
 new Typed('#typed', {
-    strings: ['Sigma, Drake, Nutter'],
+    strings: ['Lua, Python, Skid.'],
     typeSpeed: 120,
     backSpeed: 120,
     backDelay: 1000,
