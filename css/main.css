@@ -216,7 +216,7 @@ p {
 }
 @keyframes flash {
     0%, 100% {
-        color: #cd0e31;
+        color: #e30707;
     }
     50% {
         color: black;
