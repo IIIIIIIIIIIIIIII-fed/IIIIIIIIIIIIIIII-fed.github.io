@@ -19,7 +19,7 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
-    color: #6f0000;
+    color: #e30707;
     overflow: hidden;
     -webkit-touch-callout: none;
     -webkit-user-select: none;
@@ -44,7 +44,7 @@ h1 {
 }
 h1 a {
     text-decoration: none;
-    color: #6f0000;
+    color: #e30707;
     display: inline-block;
     border-bottom: none;
 }
@@ -265,7 +265,7 @@ p {
     background-color: transparent;
     border: none;
     font-family: 'monospace';
-    color: rgb(255, 255, 255);
+    color: #ff0000
     position: fixed;
 }
 .proceed-button:hover {
