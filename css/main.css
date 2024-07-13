@@ -262,8 +262,8 @@ p {
     z-index: 9999;
 }
 .proceed-button {
-    background-color: red;
-    border: black;
+    background-color: transparent;
+    border: none;
     font-family: 'monospace';
     color: rgb(255, 255, 255);
     position: fixed;
